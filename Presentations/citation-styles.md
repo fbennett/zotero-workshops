@@ -3,7 +3,7 @@
 %UofM Ann Arbor, November 2012
 
 #What we will learn this session
-* Zotero's citation styles are writen in CSL - Citation Style Language
+* Zotero's citation styles are written in CSL - Citation Style Language
 * While there are 700 styles covering almost 3000 publications, users frequently ask for specific journals or would like small adjustments to style for their own use
 * We will learn how to use a visual editor for CSL to 
 		+ identify existing citation styles that resemble specifications
